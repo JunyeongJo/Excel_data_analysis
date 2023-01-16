@@ -6,7 +6,7 @@
 4.
 5. Seoul Public Bike Data Analysis
 6. Personal Loan Data Analysis
-7. 
+7. Agricultural Products Data Analysis
 8. Google Store Game Review Analysis
 
 ## Description
@@ -17,5 +17,5 @@
 4. 
 5. I analyzed public bike data to determine the most popular places to rent a bike and to understand the usage patterns by gender, total number of rental locations, and age group. I also created a density chart overlayed on a map of Seoul to identify the regions with the highest bike usage.
 6. I analyzed personal loan data to determine the key factors for loan approval using box plots, scatter plots, and correlation analysis.
-7. 
+7. I examined Korean public data to investigate the presence of seasonal products and predict the prices of products using historical prices. I also aimed to identify any correlation between products. In this process, a significant amount of time was dedicated to cleaning missing data. 
 8. I investigated the issues and complaints of users while playing the game by creating a chart of the most frequently used negative words in user reviews and a chronological chart to identify peak review periods.
