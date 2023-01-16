@@ -3,7 +3,7 @@
 1. Starwars Data Analysis
 2. Lakers Data Analysis
 3. Superstore Data Analysis
-4.
+4. Online retail Data Analysis
 5. Seoul Public Bike Data Analysis
 6. Personal Loan Data Analysis
 7. Agricultural Products Data Analysis
