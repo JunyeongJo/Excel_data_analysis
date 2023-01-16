@@ -4,7 +4,8 @@
 2. Lakers Data Analysis
 3. Superstore Data Analysis
 4.
-5. Seoul Public Bike Data Anaysis
+5. Seoul Public Bike Data Analysis
+6. Personal Loan Data Analysis
 
 ## Description
 
