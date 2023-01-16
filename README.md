@@ -13,3 +13,4 @@
 3. I analyzed Superstore data using Pivot tables to create a graph forecast of sales. I also developed a visualization dashboard to provide an easy way to view and understand the Superstore data.
 4. 
 5. I analyzed public bike data to determine the most popular places to rent a bike and to understand the usage patterns by gender, total number of rental locations, and age group. I also created a density chart overlayed on a map of Seoul to identify the regions with the highest bike usage.
+6. I analyzed personal loan data to determine the key factors for loan approval using box plots, scatter plots, and correlation analysis.
